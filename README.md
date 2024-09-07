@@ -1,1 +1,1 @@
-This repository contains the suppplemnentary information and codes used for working on my thesis as part of the FMP at University of Vic - Central University of Catalonia. Should you have any questions, feel free to contact me!
+This repository contains the suppplementary information and codes used for on my thesis as part of the FMP at University of Vic - Central University of Catalonia. Should you have any questions, feel free to contact me!
