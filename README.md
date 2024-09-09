@@ -1,4 +1,4 @@
-**Readme**
+**README**
 
 This repository contains the supplementary information as well as the codes used for on my thesis as part of the Final Master Project at University of Vic - Central University of Catalonia.
 
