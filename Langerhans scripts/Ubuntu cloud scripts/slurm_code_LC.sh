@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Due to temp-memory limitations analysis were not run on all samples simultaneously. This script for example only includes sample 23 & 24 but of course is applicable to all samples upon tweaking the input dir parameter!
+
 cd "/data/main_storage/"
 
 nextflow run nf-core/rnaseq -r 3.14.0 \
