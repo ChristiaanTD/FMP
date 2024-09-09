@@ -1,6 +1,6 @@
 **README**
 
-This repository contains the supplementary information as well as the codes used for my thesis as part of the Final Master Project at University of Vic - Central University of Catalonia.
+This repository contains the supplementary information as well as the codes used for my thesis as part of the Final Master Project for the master in Omics Data Analysis at University of Vic - Central University of Catalonia.
 
 -In the **'Macrophage scripts'** folder you will find the code utilzed for performing DGE analysis on microarray data, as well as the code utilized to generate an overview Venn Diagram.
 
